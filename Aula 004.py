@@ -1,4 +1,4 @@
-print("Chocolate Nutella!")
+print("Chocolate")
 
 #Comentários no qual não serão impressos, mas que estarão no arquivo
 #Para pessoas que forem ler o código lerem, apenas.
@@ -6,16 +6,16 @@ print("Chocolate Nutella!")
 #Usando '#' - O programa nao irá processar essa linha.
 
 #Exemplo:
-#Imprime a mensagem chocolate nutella
-print("Chocolate Nutella!")
+#Imprime a mensagem chocolate branco
+print("Chocolate branco")
 
 #Usando aspas, para iniciar o comentário e para fechar
 #Mais fácil, pois o # serve apenas pra respectiva linha
 #Exemplo:
 """
-Imprime a mensagem chocolate nutella
+Imprime a mensagem chocolate branco
 programa feito em 26/02/2020
 """
-print("chocolate nutella")
+print("chocolate branco")
 
 

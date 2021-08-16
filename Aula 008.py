@@ -32,7 +32,7 @@ permitido para maiores de idade, apenas"""
 
 idade = int(input("Digite sua idade: ")
 if idade >= 18
-         print("pode beber")
+         print("pode beber") #algum bug, resolver
     if idade < 18
           print("não pode beber")
     else
